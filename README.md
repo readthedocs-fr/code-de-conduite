@@ -47,11 +47,11 @@ Les promotions se font sur vote, par la modération. Il est inutile de demander 
 
 Si vous êtes témoin de comportements anormaux, vous pouvez réagir avec :signalement: pour avertir la modération. Si vous avez besoin de vous entretenir avec un membre de l'équipe de modération pour une raison quelconque, vous pouvez ouvrir un canal de support avec la commande `!newticket`.
 
-**#10 `🔹` ឵឵ Évènements en direct**
+**#10 `🔹` ឵ Évènements en direct**
 
 N'importe qui, seul ou en groupe, peut se proposer pour animer un évènement en direct. Pour cela, utilisez la commande `!newticket` et précisez les détails sur votre direct. Il faudra, au minimum, fournir un sujet et une date. De plus, si vous donnez votre accord, votre évènement pourra être diffusé sur la chaîne YouTube de la communauté. Les évènements en direct se déroulent dans le canal vocal `# Direct`.
 
-**11** `🔹` **Inviter des personnes**
+**#11 `🔹`  Inviter des personnes**
 
 Vous pouvez inviter vos amis ici, cependant, nous ne vous laissons pas la permission de créer vos propres invitations.
 Vous pouvez trouver une invitation permanente en tapant la commande `!invitation` dans le salon #commandes ou, plus simplement, en allant sur/en donnant le lien suivant : http://discord.readthedocs.fr (il s'agit d'une simple redirection vers l'invitation permanente donnée par la commande ci-dessus, faites directement depuis le panel du registrar, ainsi n'ayez crainte, aucune adresse IP n'est collectée par nous en allant sur ce lien, ni quoi que ce soit d'autre).
