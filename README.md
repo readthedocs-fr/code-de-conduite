@@ -54,6 +54,4 @@ N'importe qui, seul ou en groupe, peut se proposer pour animer un évènement en
 ### #11 `🔹`  Inviter des personnes
 
 Vous pouvez inviter vos amis ici, cependant, nous ne vous laissons pas la permission de créer vos propres invitations.
-Vous pouvez trouver une invitation permanente en tapant la commande `!invitation` dans le salon #commandes ou, plus simplement, en allant sur/en donnant le lien suivant : http://discord.readthedocs.fr (il s'agit d'une simple redirection vers l'invitation permanente donnée par la commande ci-dessus, faites directement depuis le panel du registrar, ainsi n'ayez crainte, aucune adresse IP n'est collectée par nous en allant sur ce lien, ni quoi que ce soit d'autre).
-N'essayez pas d'y accéder en https, mon registrar actuel ne me fournit pas de certificat ssl/tls pour les redirections faites via leur panel.
-  
+Vous pouvez trouver une invitation permanente en tapant la commande `!invitation` dans le salon #commandes ou, plus simplement, en allant sur/en donnant le lien suivant : https://discord.readthedocs.fr
