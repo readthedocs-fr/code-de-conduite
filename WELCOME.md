@@ -35,5 +35,5 @@ Si vous êtes témoin de comportements anormaux, vous pouvez réagir avec :signa
 N'importe qui, seul ou en groupe, peut se proposer pour animer un évènement en direct. Pour cela, utilisez la commande `!newticket` et précisez les détails sur votre direct. Il faudra, au minimum, fournir un sujet et une date. De plus, si vous donnez votre accord, votre évènement pourra être diffusé sur la chaîne YouTube de la communauté. Les évènements en direct se déroulent dans le canal vocal `# Direct`.
 
 :hashtag: **11** `🔹` **Inviter des personnes**
-Vous pouvez inviter vos amis ici, cependant, nous ne vous laissons pas la permission de créer vos propres invitations.
-Vous pouvez trouver une invitation permanente en tapant la commande `!invitation` dans le salon #commandes ou, plus simplement, en allant sur/en donnant le lien suivant : https://discord.readthedocs.fr
+Vous pouvez inviter vos amis ici via la manière conventionnelle, mais nous fournissons également une invitation permanente.
+Vous pouvez obtenir ce lien en tapant la commande `!invitation` dans le salon #commandes ou, plus simplement, en allant sur/en donnant le lien suivant : https://discord.readthedocs.fr
