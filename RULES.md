@@ -37,3 +37,17 @@ N'importe qui, seul ou en groupe, peut se proposer pour animer un évènement en
 :hashtag: **11** `🔹` **Inviter des personnes**
 Vous pouvez inviter vos amis ici via la manière conventionnelle, mais nous fournissons également une invitation permanente.
 Vous pouvez obtenir ce lien en tapant la commande `!invitation` dans le salon #commandes ou, plus simplement, en allant sur/en donnant le lien suivant : https://discord.readthedocs.fr
+
+:hashtag: **11** `🔹` **Activités communautaires**
+Nous sommes une communauté de développeurs et afin de renforcer davantage l'aspect communautaire du serveur, nous avons mis en place, comme indiqué plus haut, des activités telles que des événements en direct, pouvant être animés par n'importe qui ayant des compétences dans ce qu'il souhaite montrer.
+
+En plus de ces événements en direct, nous avons : 
+- :Twitch: une chaîne Twitch pour les lives officiels (<https://www.twitch.tv/readthedocs>) ; 
+- :youtube: une chaîne YouTube pour les rediffusions de live et éventuellement plus de contenu (<https://www.youtube.com/channel/UCT5_SkraBIleO6OSEd_YNIg>) ;
+- :github: une organisation GitHub pour réaliser des programmes informatiques avec la communauté et éventuellement poster le code source de ce qui a été réalisé en live (<https://github.com/readthedocs-fr>).
+
+:hashtag: **12** `🔹` **Snippets de code**
+Comme indiqué plus haut, nous réalisons des programmes informatiques avec la communauté. Nous avons notamment réalisé notre propre service de bin.
+Nous avons également réalisé un bot Discord y uploadant directement tout snippet de code trop long (à savoir plus de 20 lignes) ou fichier uploadé directement sur Discord tout en supprimant le message original.
+Cela est fait afin d'éviter les messages trop longs dans les salons de langage (le bot n'est actif que dans les catégories Développement et Technique). 
+En effet, au bout d'un certain nombre de lignes, il est plus facile de lire le code sur un service de bin plutôt que directement dans un salon Discord.
