@@ -97,7 +97,7 @@ En plus de ces événements en direct, nous avons :
 ### #12 `🔹` Snippets de code
 
 Comme indiqué plus haut, nous réalisons des programmes informatiques avec la communauté. Nous avons notamment réalisé notre propre service de bin.  
-Un bot Discord a également été fait pour créer automatiquement un bin à partir de tout snippet de code trop long (à savoir 20 lignes ou plus) ou fichier textuel joint directement sur Discord tout en supprimant le message originel.  
+Un bot Discord a également été fait pour créer automatiquement un bin à partir de tout snippet de code trop long (à savoir 20 lignes ou plus) ou fichier textuel joint directement sur Discord tout en supprimant le message initial.  
 Au bout d'un certain nombre de lignes, il est plus facile de lire le code sur un service de bin plutôt que directement dans un salon Discord.  
 Ainsi, le bot, actif uniquement dans les catégories Développement et Technique, permet d'éviter les messages désagréablement trop longs dans les salons de langages.
 
